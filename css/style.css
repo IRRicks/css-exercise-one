@@ -3,7 +3,7 @@ body
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: 10px;
   position: fixed;
@@ -36,7 +36,7 @@ h3 {
   width: 100%;
 }
 .container {
-  background-color: yellow;
+  background-color: green;
   height: 100px;
   margin: 10px;
   width: 100%;
